@@ -1,0 +1,42 @@
+body{
+	background: url(back.jpg); 
+	background-repeat: no-repeat; 
+	background-size: cover;
+}
+#first {
+	color: white;
+	font-family: Impact, fantasy;
+}
+#second {
+	padding-left: 3em;
+	color: white;
+	font-family: Bradley Hand, cursive;
+}
+#start {
+	color: white;
+	font-family: OCR A Std, monospace;
+	font-size: 40px;
+}
+#word{
+	color: white;
+	padding-left: 4em;
+	font-size: 24px;
+	font-family: Brush Script MT, Brush Script Std, cursive;
+	padding-right: 10em;
+}
+#soft {
+    color: white;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    padding-left: 36em;
+ }
+#top {
+	color: white;
+	padding-left: 1.5em;
+	padding-right: 1.5em;
+	font-size: 20px;
+}
+#bottom {
+	color: white;
+	font-size: 30px;
+	padding-left: 20em;
+}
